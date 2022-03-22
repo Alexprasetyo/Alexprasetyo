@@ -14,8 +14,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     <p align="center"> 
 
-<img src="https://telegra.ph/file/fac49608eb86a69f85745.jpg">
-
 <p align="center">
   <a href="https://github.com/ramadhani892/RAM-UBOT/fork">
     <img src="https://img.shields.io/github/forks/ramadhani892/RAM-UBOT?label=Fork&style=social">
